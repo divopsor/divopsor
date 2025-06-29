@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### 기술 블로그
 || | |
 |---|---|---|
 || [<img width="300px" height="200px" src="https://github.com/user-attachments/assets/ecb63adc-e549-47a2-ad63-bcd1fcaac31a" />](https://blog.creco.dev/post/0a59aa9e-685d-4080-96ae-6b605b2bbc99/) | [<img width="300px" height="200px" src="https://github.com/user-attachments/assets/d10b6dca-e553-4128-a959-b93f9fc77d9d" />](https://blog.creco.dev/post/e403a714-d094-4641-8939-1fb7bb8b7758/) |
